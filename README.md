@@ -1,15 +1,8 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Destini
-
-## Our Goal
-
-The goal of this challenge is to get you comfortable with implementing the MVC design pattern and thinking about the state of your app. In addition, you will be reviewing the concept of Swift Structures and using it to separate the Model from the Controller. 
 
 ## What you will create
 
-In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+In this app, you will be able to “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience.
 
 
 ## Story Strings
@@ -46,6 +39,12 @@ In this app, you will be creating a “choose your own adventure” game similar
         )      
 ```
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+<h2>OUR APP</h2>
 
-![End Banner](Documentation/readme-end-banner.png)
+![Screenshot 2022-06-09 at 9 17 06 AM](https://user-images.githubusercontent.com/91361896/172760221-6ec4525d-41c0-4252-856c-6e26f4497e77.png)
+
+![Screenshot 2022-06-09 at 9 17 31 AM](https://user-images.githubusercontent.com/91361896/172760231-e407cf6b-7499-4d70-8da2-750d226c5e15.png)
+
+![Screenshot 2022-06-09 at 9 19 34 AM](https://user-images.githubusercontent.com/91361896/172760258-3b66a071-df2d-42bb-be29-5550c76bf218.png)
+
+            
